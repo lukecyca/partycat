@@ -1,14 +1,1 @@
-References	Qty	Description
-C1	1	CP Polarised capacitor C Radial D12.5 L25 P5
-C2	1	C Small Unpolarized capacitor 0603 HandSoldering
-D1	1	LED 0805
-P1, P5	2	CONN 01X02 Connector 01x02 TerminalBlock Pheonix MKDS1.5-2pol
-P2	1	CONN 01X03 Connector 01x03 WS2812 Strip
-P4, P3	2	CONN 01X06 Connector 01x06 Pin Header Straight 1x06
-Q2	1	Q NMOS GDS Transistor N-MOSFET (general) TO-220 Neutral123 Vertical
-R2	1	R 330 Resistor 0603 HandSoldering
-R4, R3, R5, R1	4	R 10k Resistor 0603 HandSoldering
-SW2, SW1	2	SW PUSH Button SMALL
-U1	1	AP1117 Fixed/Adjustable 1A Low Dropout regulator, Positive SOT-223
-U2	1	ESP-12 ESP8622 module, 16 pins, 2mm, PCB antenna ESP-07v2-smd
-U3	1	SN54AHCT125 SSOP-14
+References	Qty	Description	Part NumberC1	1	CP Polarised capacitor C Radial D12.5 L25 P5	C2	1	C Small Unpolarized capacitor 0603 HandSoldering	D1	1	LED 0805	"P1, P5"	2	CONN 01X02 Connector 01x02 TerminalBlock Pheonix MKDS1.5-2pol	P2	1	CONN 01X03 Connector 01x03 WS2812 Strip	104990000-ND"P4, P3"	2	CONN 01X06 Connector 01x06 Pin Header Straight 1x06	Q2	1	Q NMOS GDS Transistor N-MOSFET (general) TO-220 Neutral123 Vertical	497-3185-5-NDR2	1	R 330 Resistor 0603 HandSoldering	"R4, R3, R5, R1"	4	R 10k Resistor 0603 HandSoldering	"SW2, SW1"	2	SW PUSH Button SMALL	679-2428-NDU1	1	"AP1117 Fixed/Adjustable 1A Low Dropout regulator, Positive SOT-223"	AZ1117IH-ADJTRG1DICT-NDU2	1	"ESP-12 ESP8622 module, 16 pins, 2mm, PCB antenna ESP-07v2-smd"	U3	1	SN54AHCT125 SSOP-14	296-4653-1-ND
