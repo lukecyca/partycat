@@ -1,8 +1,7 @@
 partycat led controller
 =======================
 
-Partycat is a small controller for WS2812 LED strips which uses the ESP8266
-for programmability and wifi.
+Partycat is a small ESP8266-based controller for WS2812 LED strips.
 
 Features
 --------
@@ -15,4 +14,5 @@ Features
 
 
 ![It's Party Time](/itspartytime.png?raw=true "It's Party Time")
+Illustration Credit: http://nedroid.com/2009/05/party-cat-full-series/
 
