@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name partycat-rescue)(type Legacy)(uri ${KIPRJMOD}/partycat-rescue.lib)(options "")(descr ""))
+  (lib (name ESP8266)(type Legacy)(uri /Users/luke/Desktop/luke/Documents/Electronics/Kicad/kicad-local/kicad-ESP8266/ESP8266.lib)(options "")(descr ""))
+  (lib (name sn54ahct125)(type Legacy)(uri /Users/luke/Desktop/luke/Documents/Electronics/Kicad/kicad-local/libraries/sn54ahct125.lib)(options "")(descr ""))
+)
